@@ -1,0 +1,45 @@
+body {
+  background-color:#C3EDEA;
+}
+h1 {
+  color:#00909E;
+  font-family: cursive;
+  font-size:60px;
+}
+h1:hover{
+  color:#006A71;
+}
+h2 {
+  color:#00909E;
+}
+h3 {
+  color:#00909E;
+}
+.school{
+
+  color:#00909E;
+}
+
+.connect{
+  color:#00909E;
+}
+/*
+#name {
+  color:red;
+}*/
+hr {
+  border-color:#84A9AC;
+  border-style: dotted none none;
+  border-width: 7.5px;
+  width: 10%;
+}
+
+img {
+width: 300px;
+}
+input{
+  background-color:#DAE1E7;
+}
+textarea {
+  background-color:#DAE1E7;
+}
